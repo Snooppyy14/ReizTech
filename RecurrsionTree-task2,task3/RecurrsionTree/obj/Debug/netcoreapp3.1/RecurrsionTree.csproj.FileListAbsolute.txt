@@ -1,0 +1,13 @@
+C:\Users\Kico\source\repos\RecurrsionTree\RecurrsionTree\bin\Debug\netcoreapp3.1\RecurrsionTree.exe
+C:\Users\Kico\source\repos\RecurrsionTree\RecurrsionTree\bin\Debug\netcoreapp3.1\RecurrsionTree.deps.json
+C:\Users\Kico\source\repos\RecurrsionTree\RecurrsionTree\bin\Debug\netcoreapp3.1\RecurrsionTree.runtimeconfig.json
+C:\Users\Kico\source\repos\RecurrsionTree\RecurrsionTree\bin\Debug\netcoreapp3.1\RecurrsionTree.runtimeconfig.dev.json
+C:\Users\Kico\source\repos\RecurrsionTree\RecurrsionTree\bin\Debug\netcoreapp3.1\RecurrsionTree.dll
+C:\Users\Kico\source\repos\RecurrsionTree\RecurrsionTree\bin\Debug\netcoreapp3.1\RecurrsionTree.pdb
+C:\Users\Kico\source\repos\RecurrsionTree\RecurrsionTree\obj\Debug\netcoreapp3.1\RecurrsionTree.csprojAssemblyReference.cache
+C:\Users\Kico\source\repos\RecurrsionTree\RecurrsionTree\obj\Debug\netcoreapp3.1\RecurrsionTree.AssemblyInfoInputs.cache
+C:\Users\Kico\source\repos\RecurrsionTree\RecurrsionTree\obj\Debug\netcoreapp3.1\RecurrsionTree.AssemblyInfo.cs
+C:\Users\Kico\source\repos\RecurrsionTree\RecurrsionTree\obj\Debug\netcoreapp3.1\RecurrsionTree.csproj.CoreCompileInputs.cache
+C:\Users\Kico\source\repos\RecurrsionTree\RecurrsionTree\obj\Debug\netcoreapp3.1\RecurrsionTree.dll
+C:\Users\Kico\source\repos\RecurrsionTree\RecurrsionTree\obj\Debug\netcoreapp3.1\RecurrsionTree.pdb
+C:\Users\Kico\source\repos\RecurrsionTree\RecurrsionTree\obj\Debug\netcoreapp3.1\RecurrsionTree.genruntimeconfig.cache
