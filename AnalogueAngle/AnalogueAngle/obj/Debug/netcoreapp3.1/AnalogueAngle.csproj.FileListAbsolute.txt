@@ -1,0 +1,13 @@
+C:\Users\Kico\source\repos\AnalogueAngle\AnalogueAngle\bin\Debug\netcoreapp3.1\AnalogueAngle.exe
+C:\Users\Kico\source\repos\AnalogueAngle\AnalogueAngle\bin\Debug\netcoreapp3.1\AnalogueAngle.deps.json
+C:\Users\Kico\source\repos\AnalogueAngle\AnalogueAngle\bin\Debug\netcoreapp3.1\AnalogueAngle.runtimeconfig.json
+C:\Users\Kico\source\repos\AnalogueAngle\AnalogueAngle\bin\Debug\netcoreapp3.1\AnalogueAngle.runtimeconfig.dev.json
+C:\Users\Kico\source\repos\AnalogueAngle\AnalogueAngle\bin\Debug\netcoreapp3.1\AnalogueAngle.dll
+C:\Users\Kico\source\repos\AnalogueAngle\AnalogueAngle\bin\Debug\netcoreapp3.1\AnalogueAngle.pdb
+C:\Users\Kico\source\repos\AnalogueAngle\AnalogueAngle\obj\Debug\netcoreapp3.1\AnalogueAngle.csprojAssemblyReference.cache
+C:\Users\Kico\source\repos\AnalogueAngle\AnalogueAngle\obj\Debug\netcoreapp3.1\AnalogueAngle.AssemblyInfoInputs.cache
+C:\Users\Kico\source\repos\AnalogueAngle\AnalogueAngle\obj\Debug\netcoreapp3.1\AnalogueAngle.AssemblyInfo.cs
+C:\Users\Kico\source\repos\AnalogueAngle\AnalogueAngle\obj\Debug\netcoreapp3.1\AnalogueAngle.csproj.CoreCompileInputs.cache
+C:\Users\Kico\source\repos\AnalogueAngle\AnalogueAngle\obj\Debug\netcoreapp3.1\AnalogueAngle.dll
+C:\Users\Kico\source\repos\AnalogueAngle\AnalogueAngle\obj\Debug\netcoreapp3.1\AnalogueAngle.pdb
+C:\Users\Kico\source\repos\AnalogueAngle\AnalogueAngle\obj\Debug\netcoreapp3.1\AnalogueAngle.genruntimeconfig.cache
